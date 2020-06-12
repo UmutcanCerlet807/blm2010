@@ -1,0 +1,8 @@
+Ýki Ýntegral Sonucunun Farklý Çýkmasýnýn Nedeni: 
+Ýntegral hesabi yapýlýrken verilen polinom küçük dikdörtgenlere bölerek ve bunlarýn alanlarýný toplayarak hesaplarýz
+Aldýðýmýz dikdörtgenlerin eni ne kadar küçük olursa o kadar fazla dikdörtgen alaný hesaplarýz.Ve o kadar da istediðimize yakýn deðer elde etmiþ oluruz.
+Dettax, bizim dikdörtgenlerin enidir.
+Polinomlu Dettax i 0.1 aldýðýmýzda 2 sayý arasýnda 10 tane diködrtgen alaný bulmuþ oluruz
+Polinomsuz hespalama dedðimiz aslýnda deltax i=1 alýp verileriyle integral hesaplamaktýr
+Polinomlu kýsýmda daha çok alan hesabý yapýldýðýndan polinomsuza göre farklý sonuç vermesi gerekir.
+Polinomlu integral sonucu polinomsuza göre istediðimiz sonuca daha yakýn bir sonuç verir.
